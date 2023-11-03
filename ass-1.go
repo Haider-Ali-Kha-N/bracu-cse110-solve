@@ -10,4 +10,10 @@ func main() {
 	//task2
 	fmt.Println(54 + 56)
 
+	fmt.Println("hello world")
+	fmt.Println("hello world. Allahu akbar.")
+
+	//task2
+	fmt.Println(54 + 56)
+
 }
